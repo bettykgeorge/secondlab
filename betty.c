@@ -15,7 +15,7 @@ int main()
     sum = A + B; 
   
     // Print the sum 
-    printf("adddition of A and B is: %d", sum); 
+    printf("add of A and B is: %d", sum); 
   
     return 0; 
 }
